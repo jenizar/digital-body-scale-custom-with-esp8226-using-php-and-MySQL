@@ -60,6 +60,8 @@ E- &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;E-
 
 S- &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;A-
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9YJj8rXGY_4/0.jpg)](http://www.youtube.com/watch?v=9YJj8rXGY_4)
+
 References:
 
 1. https://github.com/jenizar/nodemcu-displays-and-inserts-weighing-data-into-the-MySQL-using-php
