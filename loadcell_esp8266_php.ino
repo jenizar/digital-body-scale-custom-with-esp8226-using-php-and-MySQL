@@ -9,8 +9,8 @@ const int LOADCELL_SCK_PIN = 12;
 
 HX711 scale;
 
-const char* ssid = "ALQALAM"; //wifi ssid / wifi name
-const char* password = "bismillah"; //wifi password
+const char* ssid = "cloud"; //wifi ssid / wifi name
+const char* password = "outofsky"; //wifi password
 
 //Your Domain name with URL path or IP address with path
 String serverName = "http://192.168.1.180/arduino/loadcell/postdata.php?weight=";
