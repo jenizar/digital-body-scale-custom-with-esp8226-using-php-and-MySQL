@@ -4,6 +4,24 @@ Displays the data on the weighing results in a web browser in real time and save
 materials:
 digital body scale custom, esp8266, HX711 load cell amplifier, psu 5v/3A, jumper cable. 
 
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale1.jpg)
+
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale2.jpg)
+
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale3.jpg)
+
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale4.jpg)
+
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale5.jpg)
+
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale6.jpg)
+
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale7.jpg)
+
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale8.jpg)
+
+![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale9.jpg)
+
 Instructions:
 1. open the back case with a screwdriver
 2. disconnect the pin header male connecting the display and battery pcb with the loadcell cable pcb
