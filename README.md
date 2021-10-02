@@ -2,6 +2,7 @@
 Displays the data on the weighing results in a web browser in real time and saves it to a MySQL database
 
 materials:
+
 digital body scale custom, esp8266, HX711 load cell amplifier, psu 5v/3A, jumper cable. 
 
 ![alt text](https://github.com/jenizar/digital-body-scale-custom-with-esp8226-using-php-and-MySQL/blob/main/Screenshot/esp8266_body_weight_scale1.jpg)
